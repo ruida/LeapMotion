@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/LeapDeveloperKit_2.1.6+23110_win/LeapSDK/lib/LeapJava.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="C:/LeapDeveloperKit_2.1.6+23110_win/LeapSDK/lib/x64"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.7.0_03/jre/lib/ext/gluegen.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.7.0_03/jre/lib/ext/gluegen-rt.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.7.0_03/jre/lib/ext/gluegen-rt-natives-windows-amd64.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.7.0_03/jre/lib/ext/joal.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.7.0_03/jre/lib/ext/joal-android-natives-windows-amd64.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.7.0_03/jre/lib/ext/joal-natives-windows-amd64.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.7.0_03/jre/lib/ext/joal-test.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.7.0_03/jre/lib/ext/jocl.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.7.0_03/jre/lib/ext/jocl-natives-windows-i586.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.7.0_03/jre/lib/ext/jocl-test.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.7.0_03/jre/lib/ext/jogl-all.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.7.0_03/jre/lib/ext/jogl-all-android-natives-windows-amd64.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.7.0_03/jre/lib/ext/jogl-all-natives-windows-amd64.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.7.0_03/jre/lib/ext/jogl-all-noawt-natives-solaris-amd64.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.7.0_03/jre/lib/ext/jogl-all-noawt-natives-windows-amd64.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.7.0_03/jre/lib/ext/jogl-test.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
